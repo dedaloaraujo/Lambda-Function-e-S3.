@@ -16,3 +16,7 @@ Configurando o Token de autorização do LocalStack.
 <br>
 Instalando o LocalStack CLI via PIP.
 <img src="https://github.com/dedaloaraujo/Lambda-Function-e-S3./blob/main/images/Screenshot_2026-07-02_11_02_25.png?raw=true">
+<br>
+<br>
+Criando o bucket S3: "notas-fiscais-upload".
+<img src="https://github.com/dedaloaraujo/Lambda-Function-e-S3./blob/main/images/Screenshot_2026-07-02_14_03_30.png?raw=true">
