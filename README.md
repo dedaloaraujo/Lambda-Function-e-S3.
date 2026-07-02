@@ -12,3 +12,7 @@ Instalando o LocalStack no Linux.
 <br>
 Configurando o Token de autorização do LocalStack.
 <img src="https://github.com/dedaloaraujo/Lambda-Function-e-S3./blob/main/images/Screenshot_2026-07-02_10_39_01.png?raw=true">
+<br>
+<br>
+Instalando o LocalStack CLI via PIP.
+<img src="https://github.com/dedaloaraujo/Lambda-Function-e-S3./blob/main/images/Screenshot_2026-07-02_11_02_25.png?raw=true">
