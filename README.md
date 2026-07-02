@@ -20,3 +20,9 @@ Instalando o LocalStack CLI via PIP.
 <br>
 Criando o bucket S3: "notas-fiscais-upload".
 <img src="https://github.com/dedaloaraujo/Lambda-Function-e-S3./blob/main/images/Screenshot_2026-07-02_14_03_30.png?raw=true">
+<br>
+<br>
+Criando e verificando a tabela no DynamoDB: "NotasFiscais" com chave primária.
+<img src="https://github.com/dedaloaraujo/Lambda-Function-e-S3./blob/main/images/Screenshot_2026-07-02_14_15_08.png?raw=true">
+<br>
+<br>
